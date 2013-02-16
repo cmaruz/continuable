@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
+    "continuable.gemspec",
     "lib/continuable.rb",
     "lib/continuable/continuable.rb",
     "lib/continuable/core_ext/object.rb",
