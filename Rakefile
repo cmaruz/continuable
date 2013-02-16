@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "continuable"
   gem.homepage = "http://github.com/cmaruz/continuable"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{continuable lets you define exceptions that can be resumed}
+  gem.description = %Q{continuable lets you define exceptions that can be resumed}
   gem.email = "mcaropreso@yammer-inc.com"
   gem.authors = ["Mario Caropreso"]
   # dependencies defined in Gemfile
