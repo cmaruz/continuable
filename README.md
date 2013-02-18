@@ -9,7 +9,9 @@ add to your Gemfile :
 
     gem 'continuable'
 
-## Defining a continuable exception
+## How to raise a continuable exception
+
+### Defining a continuable exception
 
 ```ruby
 class ContinuableException < Exception
@@ -17,9 +19,13 @@ class ContinuableException < Exception
   include Continuable
   ...
 end
+
+...
+raise ContinuableException.new
+...
 ```
 
-## Throwing a continuable exception on the fly
+### Raising a continuable exception on the fly
 
 ```ruby
 ...
