@@ -34,7 +34,13 @@ rescue Exception => ex
  end
 ```
 
+== Credits
+This gem was inspired by:
+
+- This talk about exceptions by Avdi Grimm: http://avdi.org/talks/rockymtnruby-2011/things-you-didnt-know-about-exceptions.html
+- The acread gem (https://github.com/yarmand/acread)
+
 == Copyright
 
-Copyright (c) 2013 Mario Caropreso. See LICENSE.txt for
+Copyright (c) 2013 Mario Caropreso and Yann Armand. See LICENSE.txt for
 further details.
