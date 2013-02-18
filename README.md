@@ -1,4 +1,5 @@
 # continuable
+[![Build Status](https://secure.travis-ci.org/yarmand/continuable.png?branch=master)](http://travis-ci.org/yarmand/continuable)
 
 Continuable is a gem that helps you resuming execution flow after rescuing exceptions.
 
